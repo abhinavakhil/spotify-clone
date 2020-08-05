@@ -1,0 +1,6 @@
+npm i spotify-web-api-js //-> wrapper around spotify api
+to use this -> import SpotifyWebApi from 'spotify-web-api-js';
+
+// ussing material ui icons
+npm i @material-ui/core
+npm i @material-ui/icons

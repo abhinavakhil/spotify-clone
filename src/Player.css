@@ -1,0 +1,4 @@
+.player__body {
+  /* for sidebar and body to be sideby side */
+  display: flex;
+}
